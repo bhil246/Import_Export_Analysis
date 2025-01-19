@@ -16,7 +16,11 @@ I did a LOT of exploratory data analysis until something clicked. I did not have
 
 Below are some high-level snapshots of what I found and did with my data visualizations. 
 ![This takes a look at the total transactions by category. With further analysis, it would be interesting to compare this to the bottom 20 net importers/net exporters. Another intersting piece of analysis could include showing the trends over time and what external factors could've influenced any fluctuations. ](<total transaction count.png>)
-![This graph looks at the total value by category for imports and exports for Net EXPORTERS. The takeaway from this graph is to show which category was highest/lowest for both import and export category. An example of further analysis could be determining if a category's percentage change year over year is impacting ](image-1.png)
+This takes a look at the total transactions by category. With further analysis, it would be interesting to compare this to the bottom 20 net importers/net exporters. Another intersting piece of analysis could include showing the trends over time and what external factors could've influenced any fluctuations
+
+(image-1.png)
+![This graph looks at the total value by category for imports and exports for Net EXPORTERS. The takeaway from this graph is to show which category was highest/lowest for both import and export category. An example of further analysis could be determining if a category's percentage change year over year is impacting ]
 ![The takeaway for this graph is the same as the previous graph with the caveat that both graphs together can provide additional insights into how net importers and net exporters differ from priority categories. This could also be contrasted with top net importers/exporters by trade volume](<Net importers total value by category.png>)
+The takeaway for this graph is the same as the previous graph with the caveat that both graphs together can provide additional insights into how net importers and net exporters differ from priority categories. This could also be contrasted with top net importers/exporters by trade volume
 
 Thank you for getting to this point. This is my first project with data analysis with python. I find it extremely interesting and I look forward to more projects in the future. I'd be happy to hear any feedback or comments on what you find or found interesting. 
