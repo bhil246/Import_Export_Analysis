@@ -6,9 +6,9 @@ As noted in the link, this is simulated data of real world international trade t
 I completed this project for my midterm during my 10 week full-time data analytics course. The midterm project began after 4 weeks. Up until that point, we covered how to work with python, exploring data and visualizing data with python, and practice querying SQL databases with Python. This was my first time working with python at all, and it was extremely satisfying to see how my skills and comprehension could progress over a matter of a few short weeks. 
 
 More about the project:
--5 minute presentation. I had to be consise and I did not want to overwhelm my audience. I could provide more analysis and insights if needed or provided the time. 
-Around 3-4 days to complete the project, with built-in time for practice presentations for feedback. 
--We were not assigned a dataset. This was the most challenging because there were numerous datasets I was interested in across a variety of industry and sectors. After researching for roughly a day and a half I decided on this dataset on Kaggle. As mentioned earlier, this is all simulated data. 
+*5 minute presentation. I had to be consise and I did not want to overwhelm my audience. I could provide more analysis and insights if needed or provided the time. 
+*3-4 days to complete the project, with built-in time for practice presentations for feedback. 
+*We were not assigned a dataset. This was the most challenging because there were numerous datasets I was interested in across a variety of industry and sectors. After researching for roughly a day and a half I decided on this dataset on Kaggle. As mentioned earlier, this is all simulated data. 
 
 Project overview:
 I did a LOT of exploratory data analysis until something clicked. I did not have an immediate direction I wanted to go and I could have easily shown how different product categories changed year over year across price, quantity, price per lb, how payment methods changed, etc. After further analysis, I decided to find the top 20 net importers and net exporters by total economic value for analysis. Net importers/exporters were decided by total economic value and not transaction volume because it can provide a better picture of the true economic impact of trade. Determining net importers/exporters by volume does not account for other factors beyond the total quantity. 
